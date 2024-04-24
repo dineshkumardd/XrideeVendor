@@ -15,8 +15,7 @@ import {
   faAngleRight,
   faArrowLeft,
 } from '@fortawesome/free-solid-svg-icons';
-import {Routes} from '../../navigation/Routes';
-import ImagePickerDialog from '../ImagePickerDialog/ImagePickerDialog';
+
 import {Platform} from 'react-native';
 import {PERMISSIONS, request} from 'react-native-permissions';
 import ImagePicker from 'react-native-image-crop-picker';
